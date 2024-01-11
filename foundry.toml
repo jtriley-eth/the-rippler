@@ -2,5 +2,14 @@
 src = "src"
 out = "out"
 libs = ["lib"]
+ffi = true
+evm_version = "shanghai"
 
-# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
+[fuzz]
+runs = 10_000
+
+[fmt]
+line_length = 100
+bracket_spacing = true
+multiline_func_header = "params_first"
+ignore = ["src/util/Sauce.sol"]
