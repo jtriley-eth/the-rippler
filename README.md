@@ -1,6 +1,10 @@
 ## The Rippler
 
-A Fast as Fuck Mutlicaller
+A Fast as Fuck Mutlicaller.
+
+The Rippler removes Turing Completeness as a gas optimization, interpreting the first 2 bytes of
+calldata as one of 16 jump targets, then running each call in reverse order. Call results are
+neither checked nor popped, they remain on the stack at the time of halting.
 
 ### Warnings
 
@@ -9,6 +13,46 @@ A Fast as Fuck Mutlicaller
 - Calls MUST be encoded in revese order
 - The Rippler uses EVM version Shanghai
 - Modifications to The Rippler may invalidate the jumpdest table
+
+### Relevant Software
+
+- [The Rippler Huff Source Code](src/TheRippler.huff)
+- [The Periphery Contract Source Code](src/ThePeriphery.sol)
+- [The Library with Relevant Types and Encoders](src/util/LibRippler.sol)
+
+### Encoding Specification
+
+```
+<encoding> ::=
+    <call_count_jumpdest>
+    (<target> <value> <argumgnet_ptr> <argument_length>)+
+    (<payload>)+
+```
+
+The `<call_count_jumpdest>` is a `uint16` jump target indicating the number of calls to make.
+
+| call count | jumpdest |
+| ---------- | -------- |
+| 1          | 0x0006   |
+| 2          | 0x002b   |
+| 3          | 0x0050   |
+| 4          | 0x0075   |
+| 5          | 0x009a   |
+| 6          | 0x00bf   |
+| 7          | 0x00e4   |
+| 8          | 0x0109   |
+| 9          | 0x012e   |
+| 10         | 0x0153   |
+| 11         | 0x0178   |
+| 12         | 0x019b   |
+| 13         | 0x01bc   |
+| 14         | 0x01dd   |
+| 15         | 0x01fe   |
+| 16         | 0x021f   |
+
+The `<target>` is a 160 bit address, `<value>` is a 128 bit wei value, `<argument_ptr>` is a 32 bit
+pointer to the payload, `<argument_length>` is a 32 bit length of the payload, and `<payload>` is an
+unstructured byte array.
 
 ### Gas Metering
 
