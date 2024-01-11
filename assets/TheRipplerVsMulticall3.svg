@@ -1,0 +1,246 @@
+<svg version="1.1" style="font-family: Roboto; font-size: 12px;" xmlns="http://www.w3.org/2000/svg" width="650"
+    height="400" viewBox="0 0 650 400" aria-hidden="false" aria-label="Interactive chart">
+    <defs aria-hidden="true">
+        <clipPath>
+            <rect x="0" y="0" width="567" height="261" fill="none"></rect>
+        </clipPath>
+        <clipPath>
+            <rect x="0" y="0" width="567" height="261" fill="none"></rect>
+        </clipPath>
+    </defs>
+    <rect fill="#202020" x="0" y="0" width="650" height="400" rx="0" ry="0" aria-hidden="true"></rect>
+    <rect fill="none" x="73" y="46" width="567" height="261" aria-hidden="true"></rect>
+    <g data-z-index="0" aria-hidden="true"></g>
+    <rect fill="none" data-z-index="1" x="73" y="46" width="567" height="261" aria-hidden="true"></rect>
+    <g data-z-index="1" aria-hidden="true">
+        <path fill="none" stroke-dasharray="none" data-z-index="1" d="M 107.5 46 L 107.5 307" opacity="1"></path>
+        <path fill="none" stroke-dasharray="none" data-z-index="1" d="M 143.5 46 L 143.5 307" opacity="1"></path>
+        <path fill="none" stroke-dasharray="none" data-z-index="1" d="M 178.5 46 L 178.5 307" opacity="1"></path>
+        <path fill="none" stroke-dasharray="none" data-z-index="1" d="M 214.5 46 L 214.5 307" opacity="1"></path>
+        <path fill="none" stroke-dasharray="none" data-z-index="1" d="M 249.5 46 L 249.5 307" opacity="1"></path>
+        <path fill="none" stroke-dasharray="none" data-z-index="1" d="M 285.5 46 L 285.5 307" opacity="1"></path>
+        <path fill="none" stroke-dasharray="none" data-z-index="1" d="M 320.5 46 L 320.5 307" opacity="1"></path>
+        <path fill="none" stroke-dasharray="none" data-z-index="1" d="M 356.5 46 L 356.5 307" opacity="1"></path>
+        <path fill="none" stroke-dasharray="none" data-z-index="1" d="M 391.5 46 L 391.5 307" opacity="1"></path>
+        <path fill="none" stroke-dasharray="none" data-z-index="1" d="M 426.5 46 L 426.5 307" opacity="1"></path>
+        <path fill="none" stroke-dasharray="none" data-z-index="1" d="M 462.5 46 L 462.5 307" opacity="1"></path>
+        <path fill="none" stroke-dasharray="none" data-z-index="1" d="M 497.5 46 L 497.5 307" opacity="1"></path>
+        <path fill="none" stroke-dasharray="none" data-z-index="1" d="M 533.5 46 L 533.5 307" opacity="1"></path>
+        <path fill="none" stroke-dasharray="none" data-z-index="1" d="M 568.5 46 L 568.5 307" opacity="1"></path>
+        <path fill="none" stroke-dasharray="none" data-z-index="1" d="M 604.5 46 L 604.5 307" opacity="1"></path>
+        <path fill="none" stroke-dasharray="none" data-z-index="1" d="M 639.5 46 L 639.5 307" opacity="1"></path>
+        <path fill="none" stroke-dasharray="none" data-z-index="1" d="M 72.5 46 L 72.5 307" opacity="1"></path>
+    </g>
+    <g data-z-index="1" aria-hidden="true">
+        <path fill="none" stroke="#404040" stroke-width="1" stroke-dasharray="none" data-z-index="1"
+            d="M 73 307.5 L 640 307.5" opacity="1"></path>
+        <path fill="none" stroke="#404040" stroke-width="1" stroke-dasharray="none" data-z-index="1"
+            d="M 73 220.5 L 640 220.5" opacity="1"></path>
+        <path fill="none" stroke="#404040" stroke-width="1" stroke-dasharray="none" data-z-index="1"
+            d="M 73 133.5 L 640 133.5" opacity="1"></path>
+        <path fill="none" stroke="#404040" stroke-width="1" stroke-dasharray="none" data-z-index="1"
+            d="M 73 45.5 L 640 45.5" opacity="1"></path>
+    </g>
+    <g data-z-index="2" aria-hidden="true">
+        <path fill="none" stroke="#505050" stroke-width="1" data-z-index="7" d="M 73 307.5 L 640 307.5"></path>
+    </g>
+    <g data-z-index="2" aria-hidden="true"><text font-family='Roboto-Regular,Roboto' x="23.890625" data-z-index="7"
+            text-anchor="middle" transform="translate(0,0) rotate(270 23.890625 176.5)"
+            style="color: #f0f0f0; fill: #f0f0f0;" y="176.5">Gas</text>
+        <path fill="none" data-z-index="7" d="M 73 46 L 73 307"></path>
+    </g>
+    <g data-z-index="3" aria-hidden="false">
+        <g data-z-index="0.1" opacity="1" transform="translate(73,46) scale(1 1)"
+            clip-path="url(#highcharts-ur7t244-1559-)" style="cursor: pointer; outline: none;" aria-hidden="false"
+            role="region" tabindex="-1" aria-label="TheRippler, bar series 1 of 2 with 16 bars.">
+            <rect x="9" y="226" width="7" height="36" fill="#6f58e9" opacity="1" tabindex="-1" role="img"
+                aria-label="call 1, 41,695. TheRippler." style="outline: none;"></rect>
+            <rect x="45" y="217" width="7" height="45" fill="#6f58e9" opacity="1" tabindex="-1" role="img"
+                aria-label="call 2, 52,294. TheRippler." style="outline: none;"></rect>
+            <rect x="80" y="207" width="7" height="55" fill="#6f58e9" opacity="1" tabindex="-1" role="img"
+                aria-label="call 3, 62,917. TheRippler." style="outline: none;"></rect>
+            <rect x="116" y="198" width="7" height="64" fill="#6f58e9" opacity="1" tabindex="-1" role="img"
+                aria-label="call 4, 73,528. TheRippler." style="outline: none;"></rect>
+            <rect x="151" y="189" width="7" height="73" fill="#6f58e9" opacity="1" tabindex="-1" role="img"
+                aria-label="call 5, 84,127. TheRippler." style="outline: none;"></rect>
+            <rect x="186" y="180" width="7" height="82" fill="#6f58e9" opacity="1" tabindex="-1" role="img"
+                aria-label="call 6, 94,750. TheRippler." style="outline: none;"></rect>
+            <rect x="222" y="170" width="7" height="92" fill="#6f58e9" opacity="1" tabindex="-1" role="img"
+                aria-label="call 7, 105,361. TheRippler." style="outline: none;"></rect>
+            <rect x="257" y="161" width="7" height="101" fill="#6f58e9" opacity="1" tabindex="-1" role="img"
+                aria-label="call 8, 115,972. TheRippler." style="outline: none;"></rect>
+            <rect x="293" y="152" width="7" height="110" fill="#6f58e9" opacity="1" tabindex="-1" role="img"
+                aria-label="call 9, 126,583. TheRippler." style="outline: none;"></rect>
+            <rect x="328" y="143" width="7" height="119" fill="#6f58e9" opacity="1" tabindex="-1" role="img"
+                aria-label="call 10, 137,182. TheRippler." style="outline: none;"></rect>
+            <rect x="364" y="133" width="7" height="129" fill="#6f58e9" opacity="1" tabindex="-1" role="img"
+                aria-label="call 11, 147,793. TheRippler." style="outline: none;"></rect>
+            <rect x="399" y="124" width="7" height="138" fill="#6f58e9" opacity="1" tabindex="-1" role="img"
+                aria-label="call 12, 158,404. TheRippler." style="outline: none;"></rect>
+            <rect x="434" y="115" width="7" height="147" fill="#6f58e9" opacity="1" tabindex="-1" role="img"
+                aria-label="call 13, 169,003. TheRippler." style="outline: none;"></rect>
+            <rect x="470" y="106" width="7" height="156" fill="#6f58e9" opacity="1" tabindex="-1" role="img"
+                aria-label="call 14, 179,614. TheRippler." style="outline: none;"></rect>
+            <rect x="505" y="97" width="7" height="165" fill="#6f58e9" opacity="1" tabindex="-1" role="img"
+                aria-label="call 15, 190,213. TheRippler." style="outline: none;"></rect>
+            <rect x="541" y="87" width="7" height="175" fill="#6f58e9" opacity="1" tabindex="-1" role="img"
+                aria-label="call 16, 200,824. TheRippler." style="outline: none;"></rect>
+        </g>
+        <g data-z-index="0.1" opacity="1" transform="translate(73,46) scale(1 1)" clip-path="none" aria-hidden="true">
+        </g>
+        <g data-z-index="0.1" opacity="1" transform="translate(73,46) scale(1 1)"
+            clip-path="url(#highcharts-ur7t244-1559-)" style="cursor: pointer; outline: none;" aria-hidden="false"
+            role="region" tabindex="-1" aria-label="Multicall3, bar series 2 of 2 with 16 bars.">
+            <rect x="20" y="223" width="7" height="39" fill="#94d13d" opacity="1" tabindex="-1" role="img"
+                aria-label="call 1, 44,791. Multicall3." style="outline: none;"></rect>
+            <rect x="55" y="209" width="7" height="53" fill="#94d13d" opacity="1" tabindex="-1" role="img"
+                aria-label="call 2, 60,443. Multicall3." style="outline: none;"></rect>
+            <rect x="91" y="196" width="7" height="66" fill="#94d13d" opacity="1" tabindex="-1" role="img"
+                aria-label="call 3, 76,099. Multicall3." style="outline: none;"></rect>
+            <rect x="126" y="182" width="7" height="80" fill="#94d13d" opacity="1" tabindex="-1" role="img"
+                aria-label="call 4, 91,755. Multicall3." style="outline: none;"></rect>
+            <rect x="162" y="169" width="7" height="93" fill="#94d13d" opacity="1" tabindex="-1" role="img"
+                aria-label="call 5, 107,387. Multicall3." style="outline: none;"></rect>
+            <rect x="197" y="155" width="7" height="107" fill="#94d13d" opacity="1" tabindex="-1" role="img"
+                aria-label="call 6, 123,055. Multicall3." style="outline: none;"></rect>
+            <rect x="232" y="141" width="7" height="121" fill="#94d13d" opacity="1" tabindex="-1" role="img"
+                aria-label="call 7, 138,700. Multicall3." style="outline: none;"></rect>
+            <rect x="268" y="128" width="7" height="134" fill="#94d13d" opacity="1" tabindex="-1" role="img"
+                aria-label="call 8, 154,368. Multicall3." style="outline: none;"></rect>
+            <rect x="303" y="114" width="7" height="148" fill="#94d13d" opacity="1" tabindex="-1" role="img"
+                aria-label="call 9, 170,025. Multicall3." style="outline: none;"></rect>
+            <rect x="339" y="100" width="7" height="162" fill="#94d13d" opacity="1" tabindex="-1" role="img"
+                aria-label="call 10, 185,682. Multicall3." style="outline: none;"></rect>
+            <rect x="374" y="87" width="7" height="175" fill="#94d13d" opacity="1" tabindex="-1" role="img"
+                aria-label="call 11, 201,339. Multicall3." style="outline: none;"></rect>
+            <rect x="410" y="73" width="7" height="189" fill="rgb(148,209,61)" opacity="1" tabindex="-1" role="img"
+                aria-label="call 12, 216,997. Multicall3." style="outline: none;"></rect>
+            <rect x="445" y="60" width="7" height="202" fill="#94d13d" opacity="1" tabindex="-1" role="img"
+                aria-label="call 13, 232,630. Multicall3." style="outline: none;"></rect>
+            <rect x="481" y="46" width="7" height="216" fill="#94d13d" opacity="1" tabindex="-1" role="img"
+                aria-label="call 14, 248,300. Multicall3." style="outline: none;"></rect>
+            <rect x="516" y="32" width="7" height="230" fill="#94d13d" opacity="1" tabindex="-1" role="img"
+                aria-label="call 15, 263,934. Multicall3." style="outline: none;"></rect>
+            <rect x="551" y="19" width="7" height="243" fill="rgb(148,209,61)" opacity="1" tabindex="-1" role="img"
+                aria-label="call 16, 279,592. Multicall3." style="outline: none;"></rect>
+        </g>
+        <g data-z-index="0.1" opacity="1" transform="translate(73,46) scale(1 1)" clip-path="none" aria-hidden="true">
+        </g>
+    </g>
+    <g data-z-index="3" aria-hidden="true">
+        <g stroke-linecap="round" style="cursor: pointer;" transform="translate(616,10)">
+            <title>Chart context menu</title>
+            <rect fill="#303030" x="0.5" y="0.5" width="24" height="22" rx="2" ry="2" stroke="none" stroke-width="1">
+            </rect>
+            <path fill="#f0f0f0" d="M 6 6.5 L 20 6.5 M 6 11.5 L 20 11.5 M 6 16.5 L 20 16.5" data-z-index="1"
+                stroke="#f0f0f0" stroke-width="3"></path><text font-family='Roboto-Regular,Roboto' x="0"
+                data-z-index="1" y="15.5"
+                style="color: #f8f8f8; font-weight: normal; fill: #f8f8f8;"></text>
+        </g>
+    </g><text font-family='Roboto-Regular,Roboto' x="325" text-anchor="middle" data-z-index="4"
+        style="color: #f8f8f8; font-size: 18px; fill: #f8f8f8;" y="24" aria-hidden="true">TheRippler vs
+        Multicall3</text><text font-family='Roboto-Regular,Roboto' x="325" text-anchor="middle" data-z-index="4"
+        style="color: #f0f0f0; fill: #f0f0f0;" y="45" aria-hidden="true"></text><text
+        font-family='Roboto-Regular,Roboto' x="10" text-anchor="start" data-z-index="4"
+        style="color: #f0f0f0; fill: #f0f0f0;" y="397" aria-hidden="true"></text>
+    <g data-z-index="7" aria-hidden="true" transform="translate(231,359)">
+        <rect fill="none" rx="0" ry="0" x="0" y="0" width="187" height="26"></rect>
+        <g data-z-index="1">
+            <g>
+                <g data-z-index="1" transform="translate(8,3)"><text font-family='Roboto-Regular,Roboto' x="21"
+                        text-anchor="start" data-z-index="2" y="15"
+                        style="color: #f8f8f8; cursor: pointer; font-size: 12px; font-weight: bold; fill: #f8f8f8;">TheRippler</text>
+                    <rect x="2" y="4" width="12" height="12" fill="#6f58e9" rx="6" ry="6" data-z-index="3"></rect>
+                </g>
+                <g data-z-index="1" transform="translate(106.234375,3)"><text font-family='Roboto-Regular,Roboto' x="21"
+                        y="15" text-anchor="start" data-z-index="2"
+                        style="color: #f8f8f8; cursor: pointer; font-size: 12px; font-weight: bold; fill: #f8f8f8;">Multicall3</text>
+                    <rect x="2" y="4" width="12" height="12" fill="#94d13d" rx="6" ry="6" data-z-index="3"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g data-z-index="7" aria-hidden="true"><text font-family='Roboto-Regular,Roboto' x="93.31147486435067"
+            style="color: #f0f0f0; cursor: default; font-size: 11px; fill: #f0f0f0;"
+            text-anchor="end" transform="translate(0,0) rotate(-45 93.31147486435067 323)" y="323" opacity="1">call
+            1</text><text font-family='Roboto-Regular,Roboto' x="128.74897486435069"
+            style="color: #f0f0f0; cursor: default; font-size: 11px; fill: #f0f0f0;"
+            text-anchor="end" transform="translate(0,0) rotate(-45 128.74897486435069 323)" y="323" opacity="1">call
+            2</text><text font-family='Roboto-Regular,Roboto' x="164.18647486435069"
+            style="color: #f0f0f0; cursor: default; font-size: 11px; fill: #f0f0f0;"
+            text-anchor="end" transform="translate(0,0) rotate(-45 164.18647486435069 323)" y="323" opacity="1">call
+            3</text><text font-family='Roboto-Regular,Roboto' x="199.62397486435069"
+            style="color: #f0f0f0; cursor: default; font-size: 11px; fill: #f0f0f0;"
+            text-anchor="end" transform="translate(0,0) rotate(-45 199.62397486435069 323)" y="323" opacity="1">call
+            4</text><text font-family='Roboto-Regular,Roboto' x="235.06147486435069"
+            style="color: #f0f0f0; cursor: default; font-size: 11px; fill: #f0f0f0;"
+            text-anchor="end" transform="translate(0,0) rotate(-45 235.06147486435069 323)" y="323" opacity="1">call
+            5</text><text font-family='Roboto-Regular,Roboto' x="270.49897486435066"
+            style="color: #f0f0f0; cursor: default; font-size: 11px; fill: #f0f0f0;"
+            text-anchor="end" transform="translate(0,0) rotate(-45 270.49897486435066 323)" y="323" opacity="1">call
+            6</text><text font-family='Roboto-Regular,Roboto' x="305.93647486435066"
+            style="color: #f0f0f0; cursor: default; font-size: 11px; fill: #f0f0f0;"
+            text-anchor="end" transform="translate(0,0) rotate(-45 305.93647486435066 323)" y="323" opacity="1">call
+            7</text><text font-family='Roboto-Regular,Roboto' x="341.37397486435066"
+            style="color: #f0f0f0; cursor: default; font-size: 11px; fill: #f0f0f0;"
+            text-anchor="end" transform="translate(0,0) rotate(-45 341.37397486435066 323)" y="323" opacity="1">call
+            8</text><text font-family='Roboto-Regular,Roboto' x="376.81147486435066"
+            style="color: #f0f0f0; cursor: default; font-size: 11px; fill: #f0f0f0;"
+            text-anchor="end" transform="translate(0,0) rotate(-45 376.81147486435066 323)" y="323" opacity="1">call
+            9</text><text font-family='Roboto-Regular,Roboto' x="412.24897486435066"
+            style="color: #f0f0f0; cursor: default; font-size: 11px; fill: #f0f0f0;"
+            text-anchor="end" transform="translate(0,0) rotate(-45 412.24897486435066 323)" y="323" opacity="1">call
+            10</text><text font-family='Roboto-Regular,Roboto' x="447.68647486435066" text-anchor="end"
+            transform="translate(0,0) rotate(-45 447.68647486435066 323)"
+            style="color: #f0f0f0; cursor: default; font-size: 11px; fill: #f0f0f0;" y="323"
+            opacity="1">call 11</text><text font-family='Roboto-Regular,Roboto' x="483.12397486435066" text-anchor="end"
+            transform="translate(0,0) rotate(-45 483.12397486435066 323)"
+            style="color: #f0f0f0; cursor: default; font-size: 11px; fill: #f0f0f0;" y="323"
+            opacity="1">call 12</text><text font-family='Roboto-Regular,Roboto' x="518.5614748643507" text-anchor="end"
+            transform="translate(0,0) rotate(-45 518.5614748643507 323)"
+            style="color: #f0f0f0; cursor: default; font-size: 11px; fill: #f0f0f0;" y="323"
+            opacity="1">call 13</text><text font-family='Roboto-Regular,Roboto' x="553.9989748643507" text-anchor="end"
+            transform="translate(0,0) rotate(-45 553.9989748643507 323)"
+            style="color: #f0f0f0; cursor: default; font-size: 11px; fill: #f0f0f0;" y="323"
+            opacity="1">call 14</text><text font-family='Roboto-Regular,Roboto' x="589.4364748643507" text-anchor="end"
+            transform="translate(0,0) rotate(-45 589.4364748643507 323)"
+            style="color: #f0f0f0; cursor: default; font-size: 11px; fill: #f0f0f0;" y="323"
+            opacity="1">call 15</text><text font-family='Roboto-Regular,Roboto' x="624.8739748643507" text-anchor="end"
+            transform="translate(0,0) rotate(-45 624.8739748643507 323)"
+            style="color: #f0f0f0; cursor: default; font-size: 11px; fill: #f0f0f0;" y="323"
+            opacity="1">call 16</text></g>
+    <g data-z-index="7" aria-hidden="true"><text font-family='Roboto-Regular,Roboto' x="58"
+            style="color: #f0f0f0; cursor: default; font-size: 11px; fill: #f0f0f0;"
+            text-anchor="end" transform="translate(0,0)" y="312" opacity="1">0</text><text
+            font-family='Roboto-Regular,Roboto' x="58"
+            style="color: #f0f0f0; cursor: default; font-size: 11px; fill: #f0f0f0;"
+            text-anchor="end" transform="translate(0,0)" y="225" opacity="1">100k</text><text
+            font-family='Roboto-Regular,Roboto' x="58" text-anchor="end" transform="translate(0,0)"
+            style="color: #f0f0f0; cursor: default; font-size: 11px; fill: #f0f0f0;" y="138"
+            opacity="1">200k</text><text font-family='Roboto-Regular,Roboto' x="58" text-anchor="end"
+            transform="translate(0,0)"
+            style="color: #f0f0f0; cursor: default; font-size: 11px; fill: #f0f0f0;" y="51"
+            opacity="1">300k</text></g>
+    <g data-z-index="8" style="cursor: default; white-space: nowrap; pointer-events: none;"
+        transform="translate(520,15)" opacity="0" aria-hidden="true" visibility="hidden">
+        <path fill="none"
+            d="M 3.5 0.5 L 125.5 0.5 C 128.5 0.5 128.5 0.5 128.5 3.5 L 128.5 41.5 C 128.5 44.5 128.5 44.5 125.5 44.5 L 113.5 44.5 L 107.5 50.5 L 101.5 44.5 L 3.5 44.5 C 0.5 44.5 0.5 44.5 0.5 41.5 L 0.5 3.5 C 0.5 0.5 0.5 0.5 3.5 0.5"
+            stroke="#f0f0f0" stroke-opacity="0.049999999999999996" stroke-width="5" transform="translate(1, 1)"></path>
+        <path fill="none"
+            d="M 3.5 0.5 L 125.5 0.5 C 128.5 0.5 128.5 0.5 128.5 3.5 L 128.5 41.5 C 128.5 44.5 128.5 44.5 125.5 44.5 L 113.5 44.5 L 107.5 50.5 L 101.5 44.5 L 3.5 44.5 C 0.5 44.5 0.5 44.5 0.5 41.5 L 0.5 3.5 C 0.5 0.5 0.5 0.5 3.5 0.5"
+            stroke="#f0f0f0" stroke-opacity="0.09999999999999999" stroke-width="3" transform="translate(1, 1)"></path>
+        <path fill="none"
+            d="M 3.5 0.5 L 125.5 0.5 C 128.5 0.5 128.5 0.5 128.5 3.5 L 128.5 41.5 C 128.5 44.5 128.5 44.5 125.5 44.5 L 113.5 44.5 L 107.5 50.5 L 101.5 44.5 L 3.5 44.5 C 0.5 44.5 0.5 44.5 0.5 41.5 L 0.5 3.5 C 0.5 0.5 0.5 0.5 3.5 0.5"
+            stroke="#f0f0f0" stroke-opacity="0.15" stroke-width="1" transform="translate(1, 1)"></path>
+        <path fill="rgba(247,247,247,0.85)"
+            d="M 3.5 0.5 L 125.5 0.5 C 128.5 0.5 128.5 0.5 128.5 3.5 L 128.5 41.5 C 128.5 44.5 128.5 44.5 125.5 44.5 L 113.5 44.5 L 107.5 50.5 L 101.5 44.5 L 3.5 44.5 C 0.5 44.5 0.5 44.5 0.5 41.5 L 0.5 3.5 C 0.5 0.5 0.5 0.5 3.5 0.5"
+            stroke="#94d13d" stroke-width="1"></path><text font-family='Roboto-Regular,Roboto' x="8" data-z-index="1"
+            y="18" style="color: #f8f8f8; font-size: 12px; fill: #f8f8f8;">
+            <tspan style="font-size: 10px;">call 16</tspan>
+            <tspan dy="15" x="8">​</tspan>
+            <tspan style="color: rgb(148, 209, 61); fill: rgb(148, 209, 61);">●</tspan> Multicall3: <tspan
+                style="font-weight: bold;">279 592</tspan>
+            <tspan>​</tspan>
+        </text>
+    </g>
+</svg>
