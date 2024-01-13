@@ -1,6 +1,6 @@
 ## The Rippler
 
-A Fast as Fuck Mutlicaller.
+A Fast as Fuck Multicaller.
 
 The Rippler removes Turing Completeness as a gas optimization, interpreting the first 2 bytes of
 calldata as one of 16 jump targets, then running each call in reverse order. Call results are
